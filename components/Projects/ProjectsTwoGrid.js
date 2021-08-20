@@ -39,7 +39,7 @@ class ProjectsTwoGrid extends Component {
                         <div className="overview-box">
                             <div className="overview-image">
                                 <div className="image">
-                                    <img src="/images/why-choose-img1.png" alt="image" />
+                                    <img src="/images/Picture3.png" alt="image" />
                                 </div>
                             </div>
                             
