@@ -13,16 +13,16 @@ class Projects3 extends Component {
                 <Navbar />
 
                 <PageHeader 
-                    pageTitle="Projects" 
+                    pageTitle="Projects And Press" 
                     breadcrumbTextOne="Home" 
                     breadcrumbUrl="/" 
-                    breadcrumbTextTwo="Projects" 
+                    breadcrumbTextTwo="Projects And Press" 
                 />
                 
                 <ProjectsTwoGrid />
                 <LatestNews /> 
-                <Testimonials />
-                
+                {/* uncomment this for Testimonials section
+                <Testimonials />                 */}
                 <Footer />
             </>
         );

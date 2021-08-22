@@ -53,54 +53,57 @@ class PartnerSlider extends Component {
             <>
                 <div className="partner-area ptb-100 pt-0">
                     <div className="container">
+                        <div className="section-title">
+                            <h2>Partners</h2>
+                        </div>
                         {this.state.display ? <OwlCarousel 
                             className="partner-slides owl-carousel owl-theme"
                             {...options}
                         >
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
-                                    <img src="/images/partner-image/1.jpg" alt="image" />
-                                    <img src="/images/partner-image/1.jpg" alt="image" />
+                                <a href="https://www.bioeconomy.co/" target="_blank">
+                                    <img src="/images/partner-image/1.png" alt="image" />
+                                    <img src="/images/partner-image/1.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.perl.eco/" target="_blank">
                                     <img src="/images/partner-image/partner-img2.png" alt="image" />
                                     <img src="/images/partner-image/partner-img2.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.aprilasia.com/en/ " target="_blank">
                                     <img src="/images/partner-image/partner-img3.png" alt="image" />
                                     <img src="/images/partner-image/partner-img3.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.olamgroup.com/" target="_blank">
                                     <img src="/images/partner-image/partner-img4.png" alt="image" />
                                     <img src="/images/partner-image/partner-img4.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.linkedin.com/company/cibcongo/ " target="_blank">
                                     <img src="/images/partner-image/partner-img5.png" alt="image" />
                                     <img src="/images/partner-image/partner-img5.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.ata-marie.com/" target="_blank">
                                     <img src="/images/partner-image/partner-img6.png" alt="image" />
                                     <img src="/images/partner-image/partner-img6.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.space-intelligence.com/" target="_blank">
                                     <img src="/images/partner-image/partner-img7.png" alt="image" />
                                     <img src="/images/partner-image/partner-img7.png" alt="image" />
                                 </a>
                             </div>
                             <div className="single-partner-item">
-                                <a href="/partner" target="_blank">
+                                <a href="https://www.aircarbon.co/" target="_blank">
                                     <img src="/images/partner-image/partner-img8.png" alt="image" />
                                     <img src="/images/partner-image/partner-img8.png" alt="image" />
                                 </a>

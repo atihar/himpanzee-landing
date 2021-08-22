@@ -2609,6 +2609,14 @@ Overview Area CSS
     }
 }
 
+
+@media screen and (max-width: 600px){
+
+    .overview-box{
+        flex-direction: column-reverse;
+    }
+}
+
 /*================================================
 Fun Facts Area CSS
 =================================================*/

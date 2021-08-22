@@ -6,9 +6,8 @@ class ContactForm extends Component {
             <section className="contact-area ptb-100">
                 <div className="container">
                     <div className="section-title">
-                        <span className="sub-title">Contact Us</span>
-                        <h2>Drop us Message for any Query</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2>Contact Us</h2>
+                        <p>Are you ready to protect and restore ecosystems? We want to connect with you.</p>
                     </div>
 
                     <div className="row align-items-center">
@@ -24,13 +23,13 @@ class ContactForm extends Component {
                                     <div className="row">
                                         <div className="col-lg-6 col-md-12">
                                             <div className="form-group">
-                                                <input type="text" name="name" id="name" className="form-control" placeholder="Name" />
+                                                <input type="text" name="name" id="name" className="form-control" placeholder="Name*" required/>
                                             </div>
                                         </div>
 
                                         <div className="col-lg-6 col-md-12">
                                             <div className="form-group">
-                                                <input type="email" name="email" id="email" className="form-control" placeholder="Email" />
+                                                <input type="email" name="email" id="email" className="form-control" placeholder="Email*" required/>
                                             </div>
                                         </div>
 
@@ -48,7 +47,7 @@ class ContactForm extends Component {
 
                                         <div className="col-lg-12 col-md-12">
                                             <div className="form-group">
-                                                <textarea name="message" className="form-control" id="message" rows="5" placeholder="Your Message"></textarea>
+                                                <textarea name="message" className="form-control" id="message" rows="5" placeholder="Your Message*" required></textarea>
                                             </div>
                                         </div>
 

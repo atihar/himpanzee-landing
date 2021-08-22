@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import Link from 'next/link';
 
 class ServicesOverview extends Component {
     render() {
         return (
             <section className="overview-area ptb-100">
                 <div className="container">
-                    <h3>Himpanzee conserves and restores natural habitats around the world. Our company is a carbon project developer with a proven business model that delivers benefits for partners, local communities and the environment. </h3>
+                    <h2 className="py-4">Himpanzee conserves and restores natural habitats around the world. Our company is a carbon project developer with a proven business model that delivers benefits for partners, local communities and the environment.</h2>
                     <div className="overview-box it-overview">
                         <div className="overview-content">
                             <div className="content">
@@ -39,27 +38,7 @@ class ServicesOverview extends Component {
                                             Monitoring and verification 
                                         </span>
                                     </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Social Marketing
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Youtube Marketing
-                                        </span>
-                                    </li>
                                 </ul>
-
-                                {/* <div className="rm-btn">
-                                    <Link href="/services2">
-                                        <a className="default-btn">
-                                            Read More <span></span>
-                                        </a>
-                                    </Link>
-                                </div> */}
                             </div>
                         </div>
 
@@ -83,52 +62,6 @@ class ServicesOverview extends Component {
                                 <p>We scale our projects by investing in technology and partnering with key industry players to make protection more effective and monitoring more efficient. </p>
                                 <p>With the urgency of climate change, we bring new and innovative technologies from around the world to your site to accelerate meaningful change. We recognise that the challenge is meaningfully tracking what’s happening on site including measuring biodiversity - and we are doing something about it. </p>
                                 <p>We are revolutionising projects through the use of remote sensing technology, drones, artificial intelligence, and environmental DNA. </p>
-                                {/* <ul className="features-list">
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Responsive Design
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            UI / UX Design
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Mobile App Development
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Laravel Development
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            React Development
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Angular Development
-                                        </span>
-                                    </li>
-                                </ul>
-
-                                <div className="rm-btn">
-                                    <Link href="/services2">
-                                        <a className="default-btn">
-                                            Read More <span></span>
-                                        </a>
-                                    </Link>
-                                </div> */}
                             </div>
                         </div>
                     </div>
@@ -139,53 +72,7 @@ class ServicesOverview extends Component {
                                 <h2>Creating opportunities for local communities</h2>
                                 <p>Our projects strengthen economies through creation of jobs for local communities. Himpanzee's core focus is on creating alternative revenue streams that do not destroy nature. </p>
                                 <p>We also ensure there is consultation with local communities and Indigenous populations in forest management plans that impact them. Our team performs a comprehensive needs assessment to take a data-led approach to development interventions. </p>
-                                <p>Across the world, there are companies which have caused widespread destruction of the remaining peatlands and tropical forests around the world. Often local communities are ignored as their forests are cut around them. At the heart of our success is our work with community leaders, consulting with government officials and forming partnerships with civil society to implement our projects.</p>
-                                {/* <ul className="features-list">
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Cloud Database
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Hybrid Cloud
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Email Servers
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Website Hosting
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            File Storage
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <span>
-                                            <i className='bx bxs-badge-check'></i>
-                                            Backup Systems
-                                        </span>
-                                    </li>
-                                </ul>
-
-                                <div className="rm-btn">
-                                    <Link href="/services2">
-                                        <a className="default-btn">
-                                            Read More <span></span>
-                                        </a>
-                                    </Link>
-                                </div> */}
+                                <p>Across the world, there are companies which have caused widespread destruction of the remaining peatlands and tropical forests around the world. Often local communities are ignored as their forests are cut around them. At the heart of our success is our work with community leaders, consulting with government officials and forming partnerships with civil society to implement our projects.</p>                               
                             </div>
                         </div>
 

@@ -10,7 +10,6 @@ class Services2 extends Component {
         return (
             <>
                 <Navbar />
-
                 <PageHeader 
                     pageTitle="Our Services" 
                     breadcrumbTextOne="Home" 
@@ -19,9 +18,7 @@ class Services2 extends Component {
                 />
 
                 <ServicesOverview />
-
-                <OurServices />
-                
+                <OurServices />                
                 <Footer />
             </>
         );

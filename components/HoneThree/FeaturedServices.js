@@ -7,7 +7,6 @@ class FeaturedServices extends Component {
                 <section className="featured-services-area ptb-100 pt-0">
                     <div className="container">
                         <div className="section-title">
-                            <span className="sub-title">Our goal</span>
                             <h2>The path to ecosystem protection</h2>
                             {/* <p>Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.</p> */}
                         </div>
@@ -32,7 +31,7 @@ class FeaturedServices extends Component {
                                     <img style={{width: "100px"}} className="rounded-circle shadow" src="/images/feature-icon/plant-tree.png" alt="plant-tree" />
                                     </div>
 
-                                    <h3 className="mt-25">Protect peatlands and blue carbon </h3>
+                                    <h3 className="mt-25">Protect vulnerable peatlands and blue carbon</h3>
                                     <p>Sustainably manage biologically rich habitats that store carbon, provide coastal protection or improve water quality.</p>
 
                                     {/* <a href="/service-details" className="default-btn">Read More <span></span></a> */}

@@ -10,7 +10,7 @@ class OurServices extends Component {
                         <div className="section-title">
                             {/* <span className="sub-title">Our Services</span> */}
                             <h2>Recent Projects</h2>
-                            <p>Our team has led, funded and completed the carbon project development in projects around the world, including</p>
+                            <p>Our team has led, funded and completed the carbon project development in projects around the world, including:</p>
                         </div>
 
                         {/* Our Services One */}
@@ -35,7 +35,7 @@ class OurServices extends Component {
                             </div>
 
                             <div className="overview-image">
-                                <div className="image">
+                                <div className="image p-5">
                                     <img src="/images/Picture1.png" alt="image" />
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ class OurServices extends Component {
                         {/* Our Services Two */}
                         <div className="overview-box">
                             <div className="overview-image">
-                                <div className="image">
+                                <div className="image p-5">
                                     <img src="/images/Picture2.png" alt="image" />
                                 </div>
                             </div>
