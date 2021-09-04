@@ -36,7 +36,7 @@ class OurServices extends Component {
 
                             <div className="overview-image">
                                 <div className="image p-5">
-                                    <img src="/images/Picture1.png" alt="image" />
+                                    <img src="/images/Tiger-graphic-Himpanzee.svg" alt="image" />
                                 </div>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ class OurServices extends Component {
                         <div className="overview-box">
                             <div className="overview-image">
                                 <div className="image p-5">
-                                    <img src="/images/Picture2.png" alt="image" />
+                                    <img src="/images/Gorilla-graphic-Himpanzee.svg" alt="image" />
                                 </div>
                             </div>
                             

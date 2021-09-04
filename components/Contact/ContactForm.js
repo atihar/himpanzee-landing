@@ -55,7 +55,7 @@ class ContactForm extends Component {
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1"/>
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                I agree to the Terms of Use and Privacy Policy
+                                                I agree to the <a href="/terms-of-use">Terms of Use</a> and <a href="/privacy-policy">Privacy Policy</a>
                                                 </label>
                                             </div>
                                         </div>

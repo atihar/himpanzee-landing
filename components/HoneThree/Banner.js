@@ -13,7 +13,7 @@ class Banner extends Component {
                                 <div className="col-lg-6 col-md-12" style={{marginTop:"12vw"}}>
                                     <div className="banner-content">
                                         <h1>Restore natural <br/>& economic ecosystems</h1>
-                                        <p>Conserve and restore natural habitats through carbon and biodiversity projects</p>
+                                        <p>Conserve and restore natural habitats<br/> through carbon and biodiversity projects</p>
 
                                         <div className="btn-box">
                                             <Link href="/contact">
@@ -38,7 +38,7 @@ class Banner extends Component {
                                     <div className="row text-center">
                                         <div className="counter d-flex">
                                         <p>
-                                            <p className="text-left">We have helped prevent over 301,126,587 tonnes CO2e</p>
+                                            <p className="text-left">We have helped prevent over <span className="btn">301,126,587</span> tonnes CO2e</p>
                                         </p>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@ class Banner extends Component {
                     <img src="/images/shape/shape7.png" alt="image" />
                 </div>
                 <div className="cloud-shape">
-                    <img src="/images/banner-image/illustration-3.jpg" alt="image" />
+                    <img src="/images/banner-image/illustration-3n.jpg" alt="image" />
                 </div>
                 <div className="cloud-icon1">
                     {/* <img src="/images/cloud1.png" alt="image" /> */}

@@ -25,11 +25,7 @@ class LatestNews extends Component {
                                     <div className="post-content">
                                     <div className="post-meta">
                                             <ul>
-                                                <li>By: 
-                                                    <Link href="#">
-                                                        <a>himpanzee</a>
-                                                    </Link>
-                                                </li>
+                                                
                                             </ul>
                                         </div>
                                         <h3>
@@ -60,11 +56,6 @@ class LatestNews extends Component {
                                     <div className="post-content">
                                         <div className="post-meta">
                                             <ul>
-                                                <li>By: 
-                                                    <Link href="#">
-                                                        <a>himpanzee</a>
-                                                    </Link>
-                                                </li>
                                             </ul>
                                         </div>
                                         <h3>
@@ -94,14 +85,7 @@ class LatestNews extends Component {
                                     </div>
                                     <div className="post-content">
                                         <div className="post-meta">
-                                            <ul>
-                                                <li>
-                                                    By: 
-                                                    <Link href="#">
-                                                        <a>himpanzee</a>
-                                                    </Link>
-                                                </li>
-                                                {/* <li>June 25, 2019</li> */}
+                                            <ul>                                            
                                             </ul>
                                         </div>
                                         <h3>
@@ -124,18 +108,13 @@ class LatestNews extends Component {
                                     <div className="post-image">
                                         <Link href="https://web.archive.org/web/20110708164950/http:/www.climos.com/news/articles/indonesianproposal.htm">
                                             <a>
-                                                <img src="/images/blog-image/blog-image2.jpg" alt="image" />
+                                                <img src="/images/blog-image/blog-image4.jpg" alt="image" />
                                             </a>
                                         </Link>
                                     </div>
                                     <div className="post-content">
                                         <div className="post-meta">
                                             <ul>
-                                                <li>By: 
-                                                    <Link href="#">
-                                                        <a>himpanzee</a>
-                                                    </Link>
-                                                </li>
                                             </ul>
                                         </div>
                                         <h3>

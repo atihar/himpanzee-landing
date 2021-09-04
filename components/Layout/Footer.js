@@ -18,42 +18,6 @@ class Footer extends Component {
                                             <img src="/images/Himpanzee-logo-white.png" alt="logo" />
                                         </a>
                                     </Link>
-
-                                    {/* <ul className="footer-contact-info">
-                                        <li>
-                                            <i className="flaticon-phone-call"></i>
-                                            <span>Mon to Fri : 10:00AM - 06:00PM</span>
-                                           
-                                            <a href="tel:1235421457852">+123 54214 578 52</a>
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-email"></i>
-                                            <span>Do You Have a Question?</span>
-                                            <a href="mailto:example@taiker.com">example@taiker.com</a>
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-social-media"></i>
-                                            <span>Socials Network</span>
-
-                                            <ul className="social">
-                                                <li>
-                                                    <a href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.linkedin.com/" target="_blank"><i className="fab fa-linkedin"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.youtube.com/" target="_blank"><i className="fab fa-youtube"></i></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul> */}
                                 </div>
                             </div>
 
@@ -91,43 +55,10 @@ class Footer extends Component {
                                     <h3>Socials</h3>
                                     <div className="row">
                                         <div className="col-12">
-                                            <p style={{color:"white"}}><i className='bx bxl-linkedin' ></i> Linkedin</p>
-                                            <p style={{color:"white"}}><i className='bx bxl-twitter' ></i> Twitter</p>
+                                            <p><a style={{color:"white"}} href="https://www.linkedin.com/company/hpanzee/" target="_blank"><i className='bx bxl-linkedin' ></i> Linkedin</a></p>
+                                            <p><a style={{color:"white"}} href="https://twitter.com/himpanzee" target="_blank"><i className='bx bxl-twitter' ></i> Twitter</a></p>
                                         </div>
-                                    </div>
-
-                                    {/* <ul className="footer-instagram-post">
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img1.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img2.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img3.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img4.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img5.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <img src="/images/instagram-image/insta-img6.jpg" alt="image" />
-                                            </a>
-                                        </li>
-                                    </ul> */}
+                                    </div>                            
                                 </div>
                             </div>
                         </div>

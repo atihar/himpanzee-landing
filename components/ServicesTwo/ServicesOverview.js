@@ -5,7 +5,7 @@ class ServicesOverview extends Component {
         return (
             <section className="overview-area ptb-100">
                 <div className="container">
-                    <h2 className="py-4">Himpanzee conserves and restores natural habitats around the world. Our company is a carbon project developer with a proven business model that delivers benefits for partners, local communities and the environment.</h2>
+                    <h2 className="py-4" style={{fontSize: "35px"}}>Himpanzee focuses on nature-based solutions with a proven business model that delivers benefits for partners, communities and the environment</h2>
                     <div className="overview-box it-overview">
                         <div className="overview-content">
                             <div className="content">
