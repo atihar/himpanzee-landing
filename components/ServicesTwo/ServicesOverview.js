@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 class ServicesOverview extends Component {
     render() {
         return (
-            <section className="overview-area ptb-100">
+            <section className="overview-area">
                 <div className="container">
-                    <h2 className="py-4" style={{fontSize: "35px"}}>Himpanzee focuses on nature-based solutions with a proven business model that delivers benefits for partners, communities and the environment</h2>
+                    <h2 style={{fontSize: "35px", paddingBottom:"40px"}}>Himpanzee focuses on nature-based solutions with a proven business model that delivers benefits for partners, communities and the environment</h2>
                     <div className="overview-box it-overview">
                         <div className="overview-content">
                             <div className="content">
