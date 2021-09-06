@@ -7,9 +7,9 @@
         "build": "next build",
         "start": "NODE_ENV=production node server.js -p $PORT"
     },
-    "author": "EnvyTheme.com",
+    "author": "atiharhossanmahir.com",
     "license": "ISC",
-    "description": "Taiker - React Next IT Startups & SEO Agency Template",
+    "description": "Himpanzee - agency landing page",
     "dependencies": {
         "@babel/runtime-corejs2": "^7.14.6",
         "axios": "^0.19.2",
