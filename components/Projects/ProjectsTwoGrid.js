@@ -23,7 +23,7 @@ class ProjectsTwoGrid extends Component {
 
                                     <p>Through the REDD+ process of avoiding planned deforestation and wetlands conservation and restoration, the Project will preserve the remaining peat swamp forests by preventing their conversion to forestry plantations, containing 823 species of animals and plants. </p>
                                     <p><b>Outcome:</b> 6+ million tonnes of emission reductions per year. </p>
-                                    <p>The Riau Ecosystem Restoration Carbon Project seeks to protect and restore 130,090 ha of peatland ecosystem located in the Republic of Indonesia while at the same time preserving biodiversity and enhancing local livelihoods. The Project will avoid 78,425 ha of forest clearing and conversion to an industrial forestry plantation. The Project is on the island of Sumatra and in the Province of Riau. Specifically, it is located on the Kampar Peninsula, which is a rain-fed peatland forest made up of four former logging concessions. Through the REDD+ process of avoided planned deforestation and wetlands conservation and restoration, the Project will be preserving the remaining peat swamp forests by preventing their conversion to forestry plantations.</p>
+                                    <p><a href="https://registry.verra.org/app/projectDetail/VCS/2403" target="_blank">Read our detailed project design document here</a></p>
                                 </div>
                             </div>
 
@@ -58,7 +58,7 @@ class ProjectsTwoGrid extends Component {
 
                                     <p>The main activity is the cancellation of the planned degradation and deforestation activities and the decision to instead protect the forest area. The project implements carbon stock monitoring, remote sensed monitoring, field monitoring and social activities.</p>
                                     <p><b>Outcome:</b> Over 1.1 million tonnes of emission reductions, with further millions to come</p>
-                                    <p>The North Pikounda REDD+ Project (the Project) is a reducing emission from deforestation and degradation plus conservation and sustainable forestry (REDD+) project designed to protect 92,530 hectares (ha) of unlogged native Congolese forest, legally designated as a selective logging concession. The anticipated selective logging would have been undertaken on the dry lands, consisting on an area of 55,950 ha. The main activity of the North Pikounda REDD+ Project is the cancelation of the planned degradation and deforestation activities and the decision to instead protect the forest area, while maintaining and protecting the biodiversity of the area.</p>
+                                    <p><a href="https://registry.verra.org/app/projectDetail/VCS/1052" target="_blank">Read our detailed project design document here</a></p>
                                 </div>
                             </div>
 

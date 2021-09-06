@@ -18,7 +18,7 @@ class LatestNews extends Component {
                                     <div className="post-image">
                                         <Link href="https://www.aircarbon.co/gnt-launch">
                                             <a>
-                                                <img src="/images/blog-image/blog-image1.jpg" alt="image" />
+                                                <img src="/images/blog-image/acx-trading.png" alt="image" />
                                             </a>
                                         </Link>
                                     </div>
