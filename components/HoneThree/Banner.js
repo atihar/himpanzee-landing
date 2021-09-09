@@ -37,9 +37,7 @@ class Banner extends Component {
                                 <div className="col-lg-6 col-md-12">
                                     <div className="row text-center">
                                         <div className="counter d-flex">
-                                        <p>
                                             <p className="text-left">We have helped prevent over <span className="btn">301,126,587</span> tonnes CO2e</p>
-                                        </p>
                                         </div>
                                     </div>
                                 </div>

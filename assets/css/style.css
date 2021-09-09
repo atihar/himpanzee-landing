@@ -3000,6 +3000,9 @@ Overview Area CSS
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
   }
+  .image {
+    width: 100vw;
+  }
 }
 
 /*================================================

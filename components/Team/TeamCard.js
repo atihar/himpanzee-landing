@@ -11,7 +11,7 @@ class TeamCard extends Component {
                             <div className="col-lg-4 col-sm-6 pt-md-0 pt-4">
                                 <img style={{filter: "grayscale(100%)", width:"220px"}} className="rounded-circle shadow" src="/images/team-image/dorjee.jpg" alt="team" />
                                 <h4 className="mt-4">Dorjee Sun</h4>
-                                <h6>Co Founder</h6>
+                                <h6>Co-founder</h6>
                                 <p>Dorjee is a serial social entrepreneur who has co-founded 20 companies with 2 acquisitions and 4 exits and assets sales in the areas of conservation, agriculture, philanthropy, technology and financial innovation. He helped secure $400M+ with project partners and clients such as Rio Tinto, Bank of America Merrill Lynch, Olam and Twitter. 
                                 <br/><br/>TIME Magazine named him a “Hero of the Environment” and the African Rainforest Conservancy honoured him with an Earth Day Award and by naming a newly discovered blue spotted species of chameleon from the Tanzania rainforest – the “Kinyongia dorjeesuni”. 
                                 <br/><br/>Dorjee has been named a World Economic Forum Young Global Leader, CPA Top 20 Business Leaders, one of Esquire Magazine’s 5 Gentlemen of Philanthropy, he has won the Asialink Leaders Program Alumni Award, was named an Asia Society 21 Fellow, a World Cities Summit Future Leader, is on the board of Al Gore's Australian charity "Climate Reality" and his work has been covered in the Wall Street Journal, Forbes, Fortune, TIME, Esquire, ABC, PBS, BBC, Discovery, CNBC, Sydney Morning Herald, NASDAQ and other media outlets.
