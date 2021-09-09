@@ -2193,7 +2193,7 @@ Featured Services Area CSS
 .single-featured-box .icon {
   color: #1C222E;
   position: absolute;
-  top: 33px;
+  top: 10px;
   left: 50%;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
