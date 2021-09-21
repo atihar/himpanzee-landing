@@ -56,7 +56,7 @@ class Banner extends Component {
                 <div className="shape-img7">
                     <img src="/images/shape/shape7.png" alt="image" />
                 </div>
-                <div className="cloud-shape">
+                <div className="cloud-shape d-none d-md-block">
                     <img src="/images/banner-image/illustration-3n.jpg" alt="image" />
                 </div>
                 <div className="cloud-icon1">
